@@ -5,7 +5,8 @@ project(DatastrukturerOchAlgoritmer LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(DatastrukturerOchAlgoritmer main.cpp)
+add_executable(DatastrukturerOchAlgoritmer main.cpp
+    20250320-Exercises.cpp)
 
 include(GNUInstallDirs)
 install(TARGETS DatastrukturerOchAlgoritmer

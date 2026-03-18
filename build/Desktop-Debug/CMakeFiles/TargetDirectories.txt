@@ -1,7 +1,0 @@
-/home/argbin/BigBertha/Albin/Kurser/Datastrukturer och Algoritmer/DatastrukturerOchAlgoritmer/build/Desktop-Debug/CMakeFiles/DatastrukturerOchAlgoritmer.dir
-/home/argbin/BigBertha/Albin/Kurser/Datastrukturer och Algoritmer/DatastrukturerOchAlgoritmer/build/Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/argbin/BigBertha/Albin/Kurser/Datastrukturer och Algoritmer/DatastrukturerOchAlgoritmer/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/argbin/BigBertha/Albin/Kurser/Datastrukturer och Algoritmer/DatastrukturerOchAlgoritmer/build/Desktop-Debug/CMakeFiles/list_install_components.dir
-/home/argbin/BigBertha/Albin/Kurser/Datastrukturer och Algoritmer/DatastrukturerOchAlgoritmer/build/Desktop-Debug/CMakeFiles/install.dir
-/home/argbin/BigBertha/Albin/Kurser/Datastrukturer och Algoritmer/DatastrukturerOchAlgoritmer/build/Desktop-Debug/CMakeFiles/install/local.dir
-/home/argbin/BigBertha/Albin/Kurser/Datastrukturer och Algoritmer/DatastrukturerOchAlgoritmer/build/Desktop-Debug/CMakeFiles/install/strip.dir
