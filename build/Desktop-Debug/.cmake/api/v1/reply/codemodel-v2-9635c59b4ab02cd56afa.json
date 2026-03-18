@@ -1,0 +1,62 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-57495996da70c8ee8c4b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DatastrukturerOchAlgoritmer",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DatastrukturerOchAlgoritmer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DatastrukturerOchAlgoritmer-Debug-97c9505d81d1aa986008.json",
+					"name" : "DatastrukturerOchAlgoritmer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/argbin/BigBertha/Albin/Kurser/Datastrukturer och Algoritmer/DatastrukturerOchAlgoritmer/build/Desktop-Debug",
+		"source" : "/home/argbin/BigBertha/Albin/Kurser/Datastrukturer och Algoritmer/DatastrukturerOchAlgoritmer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}
